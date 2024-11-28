@@ -29,28 +29,6 @@ Followed [Course](https://medium.com/intuitive-deep-learning/build-your-first-co
 
 Some are correct :heavy_check_mark: some are not :x:
 
-<pre>
-<img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/My_images/my_image_1.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/Outputs/my_image_1_prediction.png" height="200"/> 
-</pre>
 
-<pre>
-<img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/My_images/my_image_2.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/Outputs/my_image_2_prediction.png" height="200"/> 
-</pre>
-
-<pre>
-<img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/My_images/my_image_3.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/Outputs/my_image_3_prediction.png" height="200"/> 
-</pre>
-
-<pre>
-<img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/My_images/my_image_4.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/Outputs/my_image_4_prediction.png" height="200"/> 
-</pre>
-
-<pre>
-<img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/My_images/my_image_5.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/Outputs/my_image_5_prediction.png" height="200"/> 
-</pre>
-
-<pre>
-<img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/My_images/my_image_6.jpg" height="200"/>           <img src="https://github.com/aritzLizoain/Image-Classification/blob/main/Images/Outputs/my_image_6_prediction.png" height="200"/> 
-</pre> 
 "# BTL-XLA" 
 "# BTL-XLA" 
